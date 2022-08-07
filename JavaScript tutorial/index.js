@@ -345,7 +345,7 @@
 
 // const incrementBtn = document.querySelector('#increment')
 // const decrementBtn = document.querySelector('#decrement')
-// console.log(incrementBtn);
+// // console.log(incrementBtn);
 // const counterEl = document.getElementById('counter')
 // const ulElement = document.getElementById('list-items')
 
@@ -363,7 +363,7 @@
 //         // li.setAttribute('class', 'red')
 //         li.style.background = 'greenyellow'
 //         li.style.padding = '10px'
-    // }
+//     }
 //     else{
 //         // li.setAttribute('class', 'yellow')
 //         li.style.background = 'cyan'
@@ -374,8 +374,8 @@
 //     // b.appendChild(textNode)
 //     // const textNode2 = document.createTextNode(counter)
 
-//     // li.appendChild(b)
-//     // li.appendChild(textNode2)
+//     li.appendChild(b)
+//     li.appendChild(textNode2)
 //     // append that element
 //     ulElement.appendChild(li)
 // }
@@ -393,7 +393,7 @@
 //     counter--
 //     counterEl.innerText = counter
 // }
-
+ 
 // incrementBtn.addEventListener('click', incrementCounter)
 // decrementBtn.addEventListener('click', decrementCounter)
 
